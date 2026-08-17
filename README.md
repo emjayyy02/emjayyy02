@@ -12,7 +12,7 @@
 
 ## 🌱 A little about me
 
-I'm **Marvin Silverio**, a 19-year-old college student from the Philippines 🇵🇭.
+I'm **Marvin Silverio**, a 19-year-old 2nd year BSIS college student from the Philippines 🇵🇭.
 
 Right now, I'm exploring the world of **AI automation, web development, and software development**. My long-term goal is to become a **Full-Stack Web Developer & Automation Engineer**.
 
