@@ -37,7 +37,7 @@ This GitHub will be the **eyewitness of the journey**. From small exercises and 
 
 <div align="center">
 
-![Mountain Gazer](Mountain.png)
+![Mountain Gazer](mountain.png)
 
 *No rush. Just keep climbing.*
 
