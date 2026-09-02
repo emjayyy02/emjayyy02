@@ -2,7 +2,6 @@
 
 # 👋 Hi, I'm Marvin!
 
-### You can call me **MJ** :)
 
 *Building things, breaking things, learning how to fix them, and enjoying the process.*
 
