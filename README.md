@@ -52,6 +52,8 @@ Either way, **progress is progress.** 😭
 
 ## 🔗 Let's connect
 
+<div align="center">
+
 Want to talk about tech, automation, projects, opportunities, or just say hi? 👋
 
 🌐 [**Portfolio**](https://marvinsilverio.vercel.app) — see what I've been building  
