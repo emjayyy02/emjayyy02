@@ -52,10 +52,11 @@ Either way, **progress is progress.** 😭
 
 ## 🔗 Let's connect
 
-Want to talk about tech, automation, projects, opportunities, or just say hi?
+Want to talk about tech, automation, projects, opportunities, or just say hi? 👋
 
-**Links coming soon...** 👀
-
+🌐 [**Portfolio**](https://marvinsilverio.vercel.app) — see what I've been building  
+💼 [**LinkedIn**](https://www.linkedin.com/in/silveriomarvin1emj) — let's connect professionally  
+📧 [**Email me**](mailto:marvinsilverio.dev@gmail.com) — always open to a conversation
 ---
 
 <div align="center">
