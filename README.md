@@ -52,14 +52,19 @@ Either way, **progress is progress.** 😭
 
 ## 🔗 Let's connect
 
-<div align="center">
+<p align="center">
+  <a href="https://marvinsilverio.vercel.app">
+    <img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 
-Want to talk about tech, automation, projects, opportunities, or just say hi? 👋
+  <a href="https://www.linkedin.com/in/silveriomarvin1emj">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-🌐 [**Portfolio**](https://marvinsilverio.vercel.app) — see what I've been building  
-💼 [**LinkedIn**](https://www.linkedin.com/in/silveriomarvin1emj) — let's connect professionally  
-📧 [**Email me**](mailto:marvinsilverio.dev@gmail.com) — always open to a conversation
----
+  <a href="mailto:marvinsilverio.dev@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 <div align="center">
 
