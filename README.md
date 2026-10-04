@@ -30,21 +30,36 @@ This GitHub will be the **eyewitness of the journey**. From small exercises and 
 
 ---
 
+<div align="center">
+
+<img src="lone-knight-breeze-4s.gif" width="600">
+
+*Probably learning something new right now.*
+
+</div>
+
+---
+
 # 🧰 My Little Toolbox
 
 ## 🎨 Frontend
+
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite" />
 </p>
+
 <br/>
 
 ## ⚙️ Backend, Data & Deployment
+
 <p>
   <img src="https://skillicons.dev/icons?i=python,supabase,cloudflare,vercel" />
 </p>
+
 <br/>
 
 ## 🤖 Automation & AI
+
 <p>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white" />
@@ -56,9 +71,11 @@ This GitHub will be the **eyewitness of the journey**. From small exercises and 
   <img src="https://img.shields.io/badge/OpenRouter-111111?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" />
 </p>
+
 <br/>
 
 ## 🔌 APIs & Business Systems
+
 <p>
   <img src="https://img.shields.io/badge/REST%20APIs-111111?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Webhooks-111111?style=for-the-badge" />
@@ -72,14 +89,18 @@ This GitHub will be the **eyewitness of the journey**. From small exercises and 
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" />
 </p>
+
 <br/>
 
 ## 🛠️ Development & Build Tools
+
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
+
 <br/>
+
 <sub>Still expanding this toolbox one workflow, project, and questionable debugging session at a time. 😭</sub>
 
 ---
@@ -88,7 +109,7 @@ This GitHub will be the **eyewitness of the journey**. From small exercises and 
 
 <div align="center">
 
-![Mountain Gazer](mountain.png)
+<img src="mountain-gazer-breeze-4s.gif" width="700">
 
 *No rush. Just keep climbing.*
 
