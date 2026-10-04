@@ -32,7 +32,11 @@ This GitHub will be the **eyewitness of the journey**. From small exercises and 
 
 <div align="center">
 
-<img src="lone-knight-breeze-4s.gif" width="600">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="lone-knight-breeze-4s.gif">
+  <source media="(prefers-color-scheme: light)" srcset="lone-knight-breeze-4s.gif">
+  <img src="lone-knight-breeze-4s.gif" width="600" alt="Lone Knight">
+</picture>
 
 *Probably learning something new right now.*
 
@@ -109,7 +113,11 @@ This GitHub will be the **eyewitness of the journey**. From small exercises and 
 
 <div align="center">
 
-<img src="mountain-gazer-breeze-4s.gif" width="700">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="mountain-gazer-breeze-4s.gif">
+  <source media="(prefers-color-scheme: light)" srcset="mountain-gazer-breeze-4s.gif">
+  <img src="mountain-gazer-breeze-4s.gif" width="700" alt="Mountain Gazer">
+</picture>
 
 *No rush. Just keep climbing.*
 
